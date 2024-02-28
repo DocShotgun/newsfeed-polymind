@@ -1,0 +1,8 @@
+{
+    "module_name": "newsfeed-polymind",
+    "name": "newsfeed",
+    "description": "This function returns a list of the latest news headlines with source URLs.",
+    "params": {
+        "message": "an optional message from GateKeeper, it should not exceed 5 words."
+    }
+}
